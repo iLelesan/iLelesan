@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[[!Blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ilele_tv)
 <!--
 **iLelesan/iLelesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
